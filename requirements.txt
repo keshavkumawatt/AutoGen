@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
 huggingface_hub
 python-dotenv
@@ -9,4 +9,5 @@ openai
 numpy
 requests
 moviepy
+imageio
 imageio-ffmpeg
